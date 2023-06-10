@@ -1,0 +1,12 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Aula",
+            "group": "Aula",
+            "database": "${workspaceFolder:turma-js}/02-NodeJS/prisma/dev.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
